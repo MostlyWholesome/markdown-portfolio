@@ -1,3 +1,3 @@
 _I'm eager to learn_
-*I'm difficult to upset*
-*I learn _from my mistakes_*
+**I'm difficult to upset**
+*I learn __from my mistakes__*
